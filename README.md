@@ -1,78 +1,90 @@
-This project focuses on analyzing social media usage patterns to understand their impact on user behavior, productivity, satisfaction, and addiction levels. Using a large, realistic dataset, the study applies data analysis, visualization, and machine learning techniques to extract meaningful insights and build predictive models.
+**This project focuses on analyzing social media usage patterns to understand their impact on user behavior, productivity, satisfaction, and addiction levels. Using a large, realistic dataset, the study applies data analysis, visualization, and machine learning techniques to extract meaningful insights and build predictive models.**
 
 The goal is to identify key behavioral factors that contribute to excessive social media use and help design data-driven solutions for healthier digital habits.
 
-🛠️ Technologies Used
+# ⚠️ Important Note
 
-Python
+## Before running the notebook, please:
 
-Pandas & NumPy – Data Processing
+* Download or clone this repository.
 
-Matplotlib & Seaborn – Visualization
+* Create a local copy of the notebook and dataset.
 
-Scikit-learn – Machine Learning
+* Update the dataset file path in the notebook according to your system directory.
 
-Jupyter Notebook – Analysis Environment
+Without updating the file path, the notebook may not run correctly on your system.
 
-📈 Analysis Performed
+# 🛠️ Technologies Used
 
-Exploratory Data Analysis (EDA)
+* Python
 
-Distribution & Outlier Detection
+* Pandas & NumPy – Data Processing
 
-Correlation Analysis
+* Matplotlib & Seaborn – Visualization
 
-Behavioral Pattern Mining
+* Scikit-learn – Machine Learning
 
-Platform-wise Usage Comparison
+* Jupyter Notebook – Analysis Environment
 
-Productivity vs Usage Impact Study
+# 📈 Analysis Performed
 
-Scroll Rate vs Satisfaction Analysis
+* Exploratory Data Analysis (EDA)
 
-Data Cleaning & Preprocessing
+* Distribution & Outlier Detection
 
-🤖 Machine Learning Model
+* Correlation Analysis
 
-A predictive model is being developed to estimate social media addiction levels using behavioral features such as:
+* Behavioral Pattern Mining
 
-Usage time
+* Platform-wise Usage Comparison
 
-Scroll rate
+* Productivity vs Usage Impact Study
 
-Engagement metrics
+* Scroll Rate vs Satisfaction Analysis
 
-Sleep patterns
+* Data Cleaning & Preprocessing
 
-Productivity impact
+# 🤖 Machine Learning Model
+
+* A predictive model is being developed to estimate social media addiction levels using behavioral features such as:
+
+* Usage time
+
+* Scroll rate
+
+* Engagement metrics
+
+* Sleep patterns
+
+* Productivity impact
 
 The model aims to help identify high-risk users based on activity patterns.
 
-📌 Key Insights
+# 📌 Key Insights
 
-Moderate scrolling behavior is the most common among users.
+* Moderate scrolling behavior is the most common among users.
 
-High usage time strongly correlates with productivity loss.
+* High usage time strongly correlates with productivity loss.
 
-Sleep deprivation is linked with higher addiction levels.
+* Sleep deprivation is linked with higher addiction levels.
 
-Engagement metrics (likes/comments) influence satisfaction.
+* Engagement metrics (likes/comments) influence satisfaction.
 
-Certain platforms show higher addictive tendencies.
+* Certain platforms show higher addictive tendencies.
 
-🎯 Future Improvements
+# 🎯 Future Improvements
 
-Deploy the prediction model as a web app (Streamlit)
+* Deploy the prediction model as a web app (Streamlit)
 
-Integrate real-world datasets
+* Integrate real-world datasets
 
-Add deep learning models
+* Add deep learning models
 
-Perform longitudinal behavior analysis
+* Perform longitudinal behavior analysis
 
-Build a recommendation system for healthy usage
+* Build a recommendation system for healthy usage
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Aditya (Aadi)
 B.Tech – Computer Science & Business Systems
